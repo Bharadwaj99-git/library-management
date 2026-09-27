@@ -1,0 +1,12 @@
+*.class
+*.jar
+*.war
+*.ear
+bin/
+out/
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
